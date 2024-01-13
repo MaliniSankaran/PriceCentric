@@ -1,3 +1,2 @@
 # Pricentric - Range Pricing Application
-
-The range pricing java application aims to create tailored product solutions for specific markets and channels, provide insights into sales revenues and addresses key business questions
+The range pricing java application specializes in crafting customized product solutions for specific markets and channels. Facilitating seamless creation and management of market solutions by combining products from different manufacturers, it establishes a connection between customers and marketing agents. Administrators can monitor sales against target prices, while comprehensive Sales Analytics Reports offer strategic insights into revenues and address key business questions
