@@ -1,1 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/rfyYTRKP)
+#Pricentric - Range Pricing Application
+
+The range pricing java application aims to create tailored product solutions for specific markets and channels, provide insights into sales revenues and addresses key business questions
