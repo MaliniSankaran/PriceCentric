@@ -63,7 +63,7 @@ Businesses often face challenges in setting optimal prices for product bundles a
     - Import the project into your Java IDE.
 
 3. **Build and Run the Application**
-    - Locate the main class (e.g., `Main.java` or `PriceCentric.java`).
+    - Locate the main class (`RangePricingApplication.java`).
     - Build and run the application.
     - Follow on-screen instructions to create market solutions, add products, and generate reports.
 
@@ -116,9 +116,4 @@ Businesses often face challenges in setting optimal prices for product bundles a
 
 ---
 
-## Contact
-
-For questions or contributions, please contact the repository owner.
-
----
 
